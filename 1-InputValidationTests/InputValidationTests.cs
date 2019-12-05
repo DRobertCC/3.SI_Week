@@ -48,6 +48,10 @@ namespace _1_InputValidationTests
             Assert.IsTrue(frm.ValidEmail(str));
             str = "duffy.duck@withperiod.com";
             Assert.IsTrue(frm.ValidEmail(str));
+            str = "BugsBunny@looney.toons.io";
+            Assert.IsTrue(frm.ValidEmail(str));
+            str = "elmer_fudd@long.domain";
+            Assert.IsTrue(frm.ValidEmail(str));
         }
         [TestMethod]
         public void TestEmail_WithInValidString()
