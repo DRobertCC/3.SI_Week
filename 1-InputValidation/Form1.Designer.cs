@@ -1,4 +1,4 @@
-﻿namespace _1_InputValidation
+﻿namespace _1_InputValidationTests
 {
     partial class Form1
     {

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Forms;
 
-namespace _1_InputValidation
+namespace _1_InputValidationTests
 {
     static class Program
     {

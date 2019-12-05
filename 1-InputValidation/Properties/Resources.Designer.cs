@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace _1_InputValidation.Properties
+namespace _1_InputValidationTests.Properties
 {
 
 
