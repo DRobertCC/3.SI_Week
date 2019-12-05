@@ -1,4 +1,4 @@
-﻿# 3.Si Week's Assignments
+# 3.Si Week's Assignments
 
 ## Description
 
